@@ -1,0 +1,51 @@
+{
+  "name": "hooks-graphql",
+  "version": "0.0.38",
+  "description": "A sample integration of React hooks into graphql",
+  "keywords": [
+    "hooks",
+    "react",
+    "graphql"
+  ],
+  "author": "Shruti Kapoor",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "4.3.2",
+    "apollo-cache-inmemory": "^1.6.3",
+    "apollo-client": "^2.6.4",
+    "apollo-client-preset": "1.0.8",
+    "apollo-link-http": "^1.5.15",
+    "graphiql": "^0.13.2",
+    "graphql": "14.4.2",
+    "graphql-tag": "^2.10.1",
+    "material-ui": "0.20.2",
+    "muicss": "0.9.43",
+    "prettier": "^1.18.2",
+    "react": "^16.9.0",
+    "react-apollo": "^3.0.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "5.0.1",
+    "typeface-roboto": "0.0.75"
+  },
+  "devDependencies": {
+    "react-scripts": "3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
