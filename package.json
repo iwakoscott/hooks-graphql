@@ -15,7 +15,7 @@
     "apollo-client": "^2.6.4",
     "apollo-client-preset": "1.0.8",
     "apollo-link-http": "^1.5.15",
-    "graphiql": "^0.13.2",
+    "graphiql": "^1.4.7",
     "graphql": "14.4.2",
     "graphql-tag": "^2.10.1",
     "material-ui": "0.20.2",
